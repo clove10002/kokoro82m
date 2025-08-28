@@ -1,0 +1,13 @@
+fastapi==0.110.0
+uvicorn[standard]==0.30.5
+soundfile==0.12.1
+kokoro>=0.9.4
+spacy==3.7.4
+transformers==4.44.2
+pysrt==1.1.2
+torch
+numpy
+ffmpeg-python
+safetensors
+python-multipart
+librosa
